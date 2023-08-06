@@ -1,5 +1,6 @@
 # BongTrends.com
-
+About
+App with attractive ui with functionalities like searching products ,product detail, add to cart , checkout , payment gateway integration, products catagories managed by admin panel
 # Used Libraries
 
 Material Search Bar:
